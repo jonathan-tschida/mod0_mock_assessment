@@ -1,0 +1,35 @@
+Object: Kitchen_chair
+
+Attributes:
+legLengths: [18.0, 17.8, 18, 18]
+comfortRating: 8
+weightCapacity: 200
+currentLoad: 150
+cushionFabric: "linen"
+color: "walnut"
+
+
+Methods:
+fixWobble: [18, 18, 18, 18]
+checkComfort 7: 8 > 7 = "comfortable"
+overload: 150 < 200 = false
+reapholster: cushionFabric = "cotton"
+paint: color = "espresso"
+
+Object: Bar_Stool
+
+Attributes:
+legLengths: [36, 36, 36, 36]
+comfortRating: 6
+weightCapacity: 300
+currentLoad: 150
+cushionFabric: "pleather"
+color: "chrome"
+
+
+Methods:
+fixWobble: no wobble detected
+checkComfort 7: 7 > 6 = "uncomfortable"
+overload: 150 < 300 = false
+reapholster: cushionFabric = "real leather"
+paint: color = "matte black"
