@@ -1,0 +1,17 @@
+Class: Chair
+
+Attributes:
+legLengths (array)
+comfortRating (int)
+weightCapacity (int)
+currentLoad (int)
+cushionFabric (string)
+color (string)
+
+
+Methods:
+fixWobble (sets all leg Lengths to same value)
+checkComfort (compares comfortRating to a given value)
+overload (checks if currentLoad is greater than weightCapacity)
+reapholster (changes cushionFabric value)
+paint (changes color)
