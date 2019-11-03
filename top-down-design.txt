@@ -1,0 +1,38 @@
+Doing laundry
+1 Sort dirty clothes
+  1.1 Create warm loads
+    1.1.1 Take piece of clothing
+    1.1.2 Locate washing instructions
+    1.1.3 Put clothes that require warm water into warm load pile
+      1.1.3.1 Place delicate clothes in wash bags to avoid damage
+    1.1.4 Repeat until all clothes with warm water requirements are in a pile
+  1.2 Create cold loads
+    1.2.1 Take piece of clothing
+    1.2.2 Locate washing instructions
+    1.2.3 Put clothes that require cold water into cold load pile
+      1.2.3.1 Place delicate clothes in wash bags to avoid damage
+    1.2.4 Repeat until all clothes with cold water requirements are in a pile
+2 Wash the clothes
+  2.1 Wash warm loads
+    2.1.1 Load the washer
+    2.1.2 Set the washer settings
+    2.1.3 Start the washer
+    2.1.4 Wait for the cycle to complete
+    2.1.5 Empty the washer
+    2.1.5 Repeat until all dirty warm loads are clean
+  2.2 Wash cold loads
+    2.2.1 Load the washer
+    2.2.2 Set the washer settings
+    2.2.3 Start the washer
+    2.2.4 Wait for the cycle to complete
+    2.2.5 Empty the washer
+    2.2.6 Repeat until all dirty cold loads are clean
+3 Dry the clothes
+  3.1 Dry warm load
+  3.2 Dry cold load
+  3.2 Hang dry specific clothes
+4 Put away clean clothes
+  4.1 Sort clothes
+  4.2 Fold clothes
+  4.3 Hang clothes
+  4.4 Put Clothes Away
